@@ -105,3 +105,4 @@ def random_forest_inference(file_path):
     label = encoder.inverse_transform([pred])[0]
 
     return label, model.score(features, [pred]), confidence
+
