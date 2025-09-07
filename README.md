@@ -58,3 +58,13 @@ Currently, classification of EEG signals is performed manually by medical profes
 - .gitignore # Ignore rules
 - README.md # Project documentation
 - requirements.txt # Python dependencies
+  
+---
+
+## Team
+- Estuardo Melendez
+- Intisarul Huda
+- Kevin Tran
+- Michael Mickulec
+- Manuel Jimenez
+
