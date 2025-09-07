@@ -35,3 +35,4 @@ def plot_eeg(df:pd.DataFrame, start:int=0, end:int=-1, fs:int=200) -> None:
   plt.xlabel("Time (s)")
   plt.tight_layout()
   plt.show()
+
