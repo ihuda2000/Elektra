@@ -133,4 +133,5 @@ def convert_eegs_to_pt(eeg_dir="data/prep/eegs", out_dir="data/prep/eegs_pt", cl
 
 if __name__ == "__main__":
   labels = ['seizure', 'lpd', 'gpd', 'lrda', 'grda', 'other']
+
   convert_eegs_to_pt(eeg_dir="data/prep/eegs", out_dir="data/prep/eegs_pt", classes=labels)
